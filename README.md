@@ -1,16 +1,14 @@
-### Hi there 👋
+# The Fox Client Project :
+## Features :
+### -> 💖 *User Friendly*
+### -> 🎤 *Smarter* Client
+### -> 🤩 *FPS* Boost
+### -> ✅ *Verified* Client
+### -> 🤪 *Cracked Account Support*
+### -> ✨ *Cosmetics*
 
-<!--
-**FoxClientMC/foxclientmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Maked With :
+## ![Maked With](https://skillicons.dev/icons?i=java,html,css,js)
+# Socials :
+## -> Discord Server : [![Fox Client Discord](https://badgen.net/discord/members/Ft8EtqMRQ9)](https://discord.gg/Ft8EtqMRQ9)
+## -> Discord Server Online Members : [![Fox Client Discord Online Members](https://badgen.net/discord/online-members/Ft8EtqMRQ9)](https://discord.gg/Ft8EtqMRQ9)
